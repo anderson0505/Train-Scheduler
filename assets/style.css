@@ -1,0 +1,41 @@
+#current {
+    text-align: center;
+}
+
+.btn {
+    /* float: right; */
+    align-content: right;
+}
+
+form {
+    border: 1px solid black;
+}
+
+table {
+    border: 1px solid black;
+    border-top: 1px solid black;
+}
+
+th {
+    text-decoration: underline;
+}
+
+#title {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.form-group {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+button {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+hr {
+    margin-left: 15px;
+    margin-right: 15px;
+}
